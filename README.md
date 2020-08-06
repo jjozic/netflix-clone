@@ -1,2 +1,3 @@
-# netflix-clone
- Netflix Clone - React & Firebase
+#Netflix Clone
+
+Built with React and Firebase
